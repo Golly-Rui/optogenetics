@@ -6,8 +6,8 @@
 
 ## TCP连接
 - 运行 *TCPServer.py* 和*WiFiClientBasic.ino*
-- 功耗: 0.10~0.11A	75~76mAh
+- 功耗: 0.10~0.11A
 
 ## UDP连接
 - 运行*UDPServer.py* 和*WiFiUDPClient.ino*
-- 功耗：0.10A   72mAh
+- 功耗：0.10A   
