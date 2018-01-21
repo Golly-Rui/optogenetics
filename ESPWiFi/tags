@@ -1,0 +1,7 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+s	/home/xwt/work/optogenetics/ESPWiFi/httpClient.py	/^s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)$/;"	v	language:Python
+s	/home/xwt/work/optogenetics/ESPWiFi/UDPServer.py	/^s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)$/;"	v	language:Python
+socket	/home/xwt/work/optogenetics/ESPWiFi/httpClient.py	/^import socket$/;"	i	language:Python
+socket	/home/xwt/work/optogenetics/ESPWiFi/UDPServer.py	/^import socket$/;"	i	language:Python
+threading	/home/xwt/work/optogenetics/ESPWiFi/UDPServer.py	/^import threading$/;"	i	language:Python
+time	/home/xwt/work/optogenetics/ESPWiFi/UDPServer.py	/^import time$/;"	i	language:Python
